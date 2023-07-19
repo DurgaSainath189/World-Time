@@ -4,10 +4,11 @@ import 'pages/location.dart';
 import 'pages/loading.dart';
 
 void main() => runApp(MaterialApp(
-  initialRoute: '/',
-  routes: {
-    '/':(context)=>Loading(),
-    '/home':(context)=>Home(),
-    '/location':(context)=>Location(),
-  },
-));
+      debugShowCheckedModeBanner: false,
+      initialRoute: '/',
+      routes: {
+        '/': (context) => Loading(),
+        '/home': (context) => Home(),
+        '/location': (context) => Location(),
+      },
+    ));

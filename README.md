@@ -16,8 +16,8 @@ The World Time App is a simple application that allows users to view the current
 - **Responsive Design:** The app is designed to be responsive and compatible with different devices and screen sizes.
 
 ## App Screenshots
-<img src="https://github.com/DurgaSainath189/World-Time/assets/122379609/fd65715f-891c-4cd6-964e-8fd4e998a555" width="330">
-<img src="https://github.com/DurgaSainath189/World-Time/assets/122379609/e4b827fd-25bc-449c-8e14-bf109ebaaf5f" width="330">
+<img src="https://github.com/DurgaSainath189/World-Time/assets/122379609/fd65715f-891c-4cd6-964e-8fd4e998a555" width="330"><br>
+<img src="https://github.com/DurgaSainath189/World-Time/assets/122379609/e4b827fd-25bc-449c-8e14-bf109ebaaf5f" width="330"><br>
 <img src="https://github.com/DurgaSainath189/World-Time/assets/122379609/2cf88bba-36f8-4917-8238-15751ab26d45" width="330">
 
 
